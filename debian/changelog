@@ -1,4 +1,13 @@
-kdetoys (4:3.90.1-1) unstable; urgency=low
+kdetoys (4:3.96.0-1) experimental; urgency=low
+
+  * New upstream release. 
+  * Update build-depends.
+  * Split files in packages.
+  * Update control file with new packages.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 16 Nov 2007 15:03:24 +0100
+
+kdetoys (4:3.90.1-1) experimental; urgency=low
 
   * Initial release.
 
