@@ -1,7 +1,6 @@
 usr/bin/ktux
-usr/share/kde4/services/ScreenSavers/ktux.desktop
-usr/share/icons/hicolor/32x32/apps/ktux.png
 usr/share/icons/hicolor/16x16/apps/ktux.png
+usr/share/icons/hicolor/32x32/apps/ktux.png
 usr/share/kde4/apps/ktux/sprites/anim0001.png
 usr/share/kde4/apps/ktux/sprites/anim0002.png
 usr/share/kde4/apps/ktux/sprites/anim0003.png
@@ -18,4 +17,4 @@ usr/share/kde4/apps/ktux/sprites/flare0002.png
 usr/share/kde4/apps/ktux/sprites/spriterc
 usr/share/kde4/apps/ktux/sprites/star0001.png
 usr/share/kde4/apps/ktux/sprites/star0002.png
-
+usr/share/kde4/services/ScreenSavers/ktux.desktop
