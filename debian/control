@@ -61,7 +61,6 @@ Package: kmoon
 Architecture: any
 Section: kde
 Depends: ${shlibs:Depends}
-Recommends: kicker
 Suggests: khelpcenter
 Description: moon phase indicator for KDE4
  An applet for the KDE panel that displays the current phase of the moon.
