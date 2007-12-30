@@ -1,9 +1,10 @@
-kdetoys (4:3.97.0-1) experimental; urgency=low
+kdetoys (4:3.98.0~svn753247-1) experimental; urgency=low
 
-  * KDE 4 RC2, first upload to the Debian archive.
-  * Update Standards-Version to 3.7.3. 
+  * KDE 4 RC2 + svn snapshot 753247, first upload to the Debian archive.
+  * Update Standards-Version to 3.7.3.
+  * TODO: copyright file and it is ready.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 24 Dec 2007 02:12:59 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 30 Dec 2007 01:31:34 +0100
 
 kdetoys (4:3.96.0-1) experimental; urgency=low
 
