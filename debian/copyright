@@ -39,14 +39,77 @@ When "under GPL" is mentioned, it means GPL like this:
 
 
 Files under amor/
-Files under doc
-Files under eyesapplet
-Files under fifteenapplet
-Files under kmoon
-Files under kteatime
-Files under ktux
-Files under kweather
-Files under kworldwatch
+
+    These files are under the GPL v2 or later.
+
+
+Files under doc/
+
+These files are under the GNU Free Documentation License v1.2
+
+    | Permission is granted to copy, distribute and/or modify this
+    | document under the terms of the GNU Free Documentation License,
+    | Version 1.1 or any later version published by the Free Software
+    | Foundation; with no Invariant Sections, with no Front-Cover Texts,
+    | and with no Back-Cover Texts.
+
+    The full text of the GNU Free Documentation License is available on
+    Debian systems in /usr/share/common-licenses/GFDL-1.2
+
+    As well, all the Manpages.dox included are under this license, unless
+    specified otherwise below.
+
+
+Files under eyesapplet/
+
+    These files are under the GPL v2 or later.
+
+
+Files under fifteenapplet/
+
+    These files are under the following license:
+
+   | Permission is hereby granted, free of charge, to any person obtaining a copy
+   | of this software and associated documentation files (the "Software"), to deal
+   | in the Software without restriction, including without limitation the rights
+   | to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   | copies of the Software, and to permit persons to whom the Software is
+   | furnished to do so, subject to the following conditions:
+   | 
+   | The above copyright notice and this permission notice shall be included in
+   | all copies or substantial portions of the Software.
+   | 
+   | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   | IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   | FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+   | AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+   | AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   | CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+   |
+
+Files under kmoon/
+
+    These files are under the GPL v2 or later.
+
+
+Files under kteatime/
+
+    These files are under the GPL v2 or later.
+
+
+Files under ktux/
+
+    These files are under the GPL.
+
+
+Files under kweather/
+
+    These files are under the GPL v2 or later.
+
+
+Files under kworldwatch/
+
+    These files are under the GPL v2 or later.
 
 
 
