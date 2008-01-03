@@ -1,6 +1,7 @@
 kdetoys (4:3.98.0~svn755919-1) experimental; urgency=low
 
   * New svn snapshot release to revision 755919.
+  * Replace b-d on kdebase-workspace-dev for libphonon-dev.
   * Update years in copyright. 
   * Remove: fifteenapplet (it is a plasmoid now), ktux, kmoon
     eyesapplet and kweather.
