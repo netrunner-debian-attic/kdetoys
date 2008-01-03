@@ -10,7 +10,7 @@ Standards-Version: 3.7.3
 Package: kdetoys
 Architecture: all
 Section: kde
-Depends: amor (>= ${source:Version}), eyesapplet (>= ${source:Version}), kteatime (>= ${source:Version}), kweather (>= ${source:Version}), kworldclock (>= ${source:Version})
+Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}), kweather (>= ${source:Version}), kworldclock (>= ${source:Version})
 Description: toys from the official KDE4 release
  KDE (the K Desktop Environment) is a powerful Open Source graphical
  desktop environment for Unix workstations. It combines ease of use,
@@ -30,17 +30,6 @@ Suggests: khelpcenter
 Description: a KDE creature for your desktop
  AMOR stands for Amusing Misuse Of Resources. It provides several different
  characters who prance around your X screen doing tricks and giving you tips.
- .
- This package is part of KDE, and a component of the KDE4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
-
-Package: eyesapplet
-Architecture: any
-Section: kde
-Depends: ${shlibs:Depends}
-Description: eyes applet for KDE4
- An applet for the KDE panel containing a pair of eyes that follow your mouse
- around the screen.
  .
  This package is part of KDE, and a component of the KDE4 toys module.
  See the 'kde' and 'kdetoys' packages for more information.
