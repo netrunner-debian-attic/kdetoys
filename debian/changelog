@@ -3,7 +3,7 @@ kdetoys (4:3.98.0~svn755919-1) experimental; urgency=low
   * New svn snapshot release to revision 755919.
   * Update years in copyright. 
   * Remove: fifteenapplet (it is a plasmoid now), ktux, kmoon
-    and eyesapplet.
+    eyesapplet and kweather.
   * Update kworldclock.install, has dropped the kicker applet.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 03 Jan 2008 21:38:59 +0100
