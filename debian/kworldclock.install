@@ -1,5 +1,4 @@
 usr/bin/kworldclock
-usr/lib/kde4/ww_panelapplet.so
 usr/share/applications/kde4/kworldclock.desktop
 usr/share/doc/kde4/HTML/en/kworldclock/index.cache.bz2
 usr/share/doc/kde4/HTML/en/kworldclock/index.docbook
@@ -19,8 +18,6 @@ usr/share/icons/hicolor/16x16/apps/kworldclock.png
 usr/share/icons/hicolor/22x22/apps/kworldclock.png
 usr/share/icons/hicolor/32x32/apps/kworldclock.png
 usr/share/icons/hicolor/48x48/apps/kworldclock.png
-usr/share/kde4/apps/kdesktop/programs/kdeworld.desktop
-usr/share/kde4/apps/kicker/applets/kwwapplet.desktop
 usr/share/kde4/apps/kworldclock/maps/depths/400.jpg
 usr/share/kde4/apps/kworldclock/maps/depths/800.jpg
 usr/share/kde4/apps/kworldclock/maps/depths/depths.desktop

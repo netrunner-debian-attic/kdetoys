@@ -3,14 +3,14 @@ Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Armin Berres <trigger+debian@space-based.de>
-Build-Depends: cdbs, debhelper (>= 5), cmake, quilt, kdelibs5-dev (>=4:3.98.0~),
- kdebase-workspace-dev (>=4:3.98.0~)
+Build-Depends: cdbs, debhelper (>= 5), cmake, quilt, kdelibs5-dev (>=4:3.98.0~svn755919-1),
+ libphonon-dev (>=3.98.0~svn755919-1)
 Standards-Version: 3.7.3
 
 Package: kdetoys
 Architecture: all
 Section: kde
-Depends: amor (>= ${source:Version}), eyesapplet (>= ${source:Version}), fifteenapplet (>= ${source:Version}), kmoon (>= ${source:Version}), kteatime (>= ${source:Version}), ktux (>= ${source:Version}), kweather (>= ${source:Version}), kworldclock (>= ${source:Version})
+Depends: amor (>= ${source:Version}), eyesapplet (>= ${source:Version}), kteatime (>= ${source:Version}), kweather (>= ${source:Version}), kworldclock (>= ${source:Version})
 Description: toys from the official KDE4 release
  KDE (the K Desktop Environment) is a powerful Open Source graphical
  desktop environment for Unix workstations. It combines ease of use,
@@ -45,29 +45,6 @@ Description: eyes applet for KDE4
  This package is part of KDE, and a component of the KDE4 toys module.
  See the 'kde' and 'kdetoys' packages for more information.
 
-Package: fifteenapplet
-Architecture: any
-Section: kde
-Depends: ${shlibs:Depends}
-Description: fifteen pieces puzzle for KDE4
- An applet for the KDE panel that lets you play the Fifteen Pieces
- sliding block puzzle. You have to order 15 pieces in a 4x4 square by
- moving them around.
- .
- This package is part of KDE, and a component of the KDE4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
-
-Package: kmoon
-Architecture: any
-Section: kde
-Depends: ${shlibs:Depends}
-Suggests: khelpcenter
-Description: moon phase indicator for KDE4
- An applet for the KDE panel that displays the current phase of the moon.
- .
- This package is part of KDE, and a component of the KDE4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
-
 Package: kteatime
 Architecture: any
 Section: kde
@@ -84,17 +61,6 @@ Description: KDE4 utility for making a fine cup of tea
  Please note that KTeaTime is written explicitly for KDE. If you are
  using a non-KDE window manager or desktop environment then it is quite
  possible that KTeaTime will not work on your system.
- .
- This package is part of KDE, and a component of the KDE4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
-
-Package: ktux
-Architecture: any
-Section: kde
-Depends: ${shlibs:Depends}
-Suggests: kwin
-Description: Tux screensaver for KDE4
- A neat Tux-in-a-spaceship screensaver for the K Desktop Environment (KDE).
  .
  This package is part of KDE, and a component of the KDE4 toys module.
  See the 'kde' and 'kdetoys' packages for more information.
