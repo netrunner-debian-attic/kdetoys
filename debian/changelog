@@ -1,8 +1,12 @@
 kdetoys (4:4.0.0-1) experimental; urgency=low
 
-  * New upstream release. 
+  * New upstream release.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 05 Jan 2008 15:43:44 +0100
+  +++ Changes by Matthew Rosewarne:
+
+  * Add Homepage: to control.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 05 Jan 2008 15:43:44 +0100
 
 kdetoys (4:3.98.0~svn755919-1) experimental; urgency=low
 
