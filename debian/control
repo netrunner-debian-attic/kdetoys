@@ -75,7 +75,7 @@ Description: earth watcher for KDE 4
 Package: kdetoys-dbg
 Section: libdevel
 Architecture: any
-Depends: kdelibs-dbg
+Depends: kdebase-runtime-dbg
 Priority: extra
 Description: debugging symbols for kdetoys
  This package contains the debugging symbols associated with kdetoys.
