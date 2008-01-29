@@ -2,6 +2,7 @@ kdetoys (4:4.0.0-2) UNRELEASED; urgency=low
 
   +++ Changes by Matthew Rosewarne:
 
+  * Tweak package descriptions.
   * Change kdeadmin-dbg Depends from kdelibs-dbg to kdebase-runtime-dbg.
   * Add Suggests: kdetoys to kdetoys-dbg.
 

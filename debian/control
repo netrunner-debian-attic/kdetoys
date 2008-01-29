@@ -13,14 +13,16 @@ Architecture: all
 Section: kde
 Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}),
  kworldclock (>= ${source:Version})
-Description: toys from the official KDE 4 release
- KDE (the K Desktop Environment) is a powerful Open Source graphical
- desktop environment for Unix workstations. It combines ease of use,
- contemporary functionality, and outstanding graphical design with the
- technological superiority of the Unix operating system.
+Description: desktop toys from the official KDE 4 release
+ KDE is produced by an international technology team that creates free and open
+ source software for desktop and portable computing. Among KDE's products are a
+ modern desktop system for Linux and UNIX platforms, comprehensive office
+ productivity and groupware suites and hundreds of software titles in many
+ categories including Internet and web applications, multimedia, entertainment,
+ educational, graphics and software development.
  .
- This metapackage includes a collection of toys and fun extras provided
- with the official release of KDE 4.
+ This metapackage includes desktop toys provided with the official release of
+ KDE 4.
 
 
 Package: amor
@@ -29,12 +31,11 @@ Section: games
 Depends: ${shlibs:Depends}
 Recommends: kwin
 Suggests: khelpcenter
-Description: a KDE creature for your desktop
- AMOR stands for Amusing Misuse Of Resources. It provides several different
- characters who prance around your X screen doing tricks and giving you tips.
+Description: KDE 4 desktop companion
+ AMOR, or Amusing Misuse Of Resources, displays an animated character who
+ wanders about the screen, doing tricks and giving the occasional hint.
  .
- This package is part of KDE, and a component of the KDE 4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
+ This package is part of the KDE 4 toys module.
 
 Package: kteatime
 Architecture: any
@@ -47,14 +48,7 @@ Description: KDE 4 utility for making a fine cup of tea
  type of tea you have, and it will alert you when the tea is ready to
  drink.
  .
- KTeaTime sits in the KDE system tray.
- .
- Please note that KTeaTime is written explicitly for KDE. If you are
- using a non-KDE window manager or desktop environment then it is quite
- possible that KTeaTime will not work on your system.
- .
- This package is part of KDE, and a component of the KDE 4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
+ This package is part of the KDE 4 toys module.
 
 Package: kworldclock
 Architecture: any
@@ -62,16 +56,14 @@ Section: games
 Depends: ${shlibs:Depends}
 Suggests: kdeartwork-misc, kdesktop, khelpcenter
 Provides: kworldwatch
-Description: earth watcher for KDE 4
- Displays where in the world it is light and dark depending on time, as
- well as offering the time in all of the major cities of the world.
- This can be run standalone, as an applet in the KDE panel or as a
- desktop background.
+Description: world clock for KDE 4
+ KWorldClock displays a map of the world with illuminated and shaded areas
+ indicating day and night.  Moving the mouse near a major city will display the
+ current local time.
  .
  Additional kworldclock themes are available in the kdeartwork-misc package.
  .
- This package is part of KDE, and a component of the KDE 4 toys module.
- See the 'kde' and 'kdetoys' packages for more information.
+ This package is part of the KDE 4 toys module.
 
 Package: kdetoys-dbg
 Section: libdevel
