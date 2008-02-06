@@ -1,4 +1,4 @@
-kdetoys (4:4.0.1-1) UNRELEASED; urgency=low
+kdetoys (4:4.0.1-1) experimental; urgency=low
 
   * New upstream release.
 
@@ -10,10 +10,15 @@ kdetoys (4:4.0.1-1) UNRELEASED; urgency=low
 
   +++ Changes by Ana Beatriz Guerrero Lopez:
 
-  * Bump to debhelper 6.
-  * Update build-depends to 4:4.0.1-1.
+  * Bump compat/debhelper to 6.
+  * Update build-depends to kdelibs5-dev >= 4:4.0.1-1.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 23 Jan 2008 01:17:38 -0500
+  +++ Changes by Fathi Boudra:
+
+  * Add /usr/share/doc/kde4/HTML/en/*/common files.
+  * Add Vcs-browser and Vcs-Svn fields.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 06 Feb 2008 12:09:03 +0100
 
 kdetoys (4:4.0.0-1) experimental; urgency=low
 
