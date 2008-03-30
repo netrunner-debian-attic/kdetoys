@@ -3,8 +3,9 @@ Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Armin Berres <trigger+debian@space-based.de>, Matthew Rosewarne <mrosewarne@inoutbox.com>
-Build-Depends: cdbs (>= 0.4.51), debhelper (>= 6), cmake, quilt, kdelibs5-dev (>= 4:4.0.2),
- libphonon-dev (>= 4:4.0.2)
+Build-Depends: cdbs (>= 0.4.51), debhelper (>= 6), cmake, quilt, 
+ kdebase-workspace-dev (>= 4:4.0.66), libphonon-dev (>= 4:4.0.66), libplasma-dev (>= 4:4.0.66),
+ libqimageblitz-dev (>=1:0.0.4-2)
 Standards-Version: 3.7.3
 Homepage: http://www.kde.org/
 Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/branches/kde4/packages/kdetoys
@@ -66,6 +67,25 @@ Description: world clock for KDE 4
  Additional kworldclock themes are available in the kdeartwork-misc package.
  .
  This package is part of the KDE 4 toys module.
+
+Package: ktux
+Architecture: any
+Section: games
+Depends: ${shlibs:Depends}
+Description: ...
+ Ktux .......
+ .
+ This package is part of the KDE 4 toys module.
+
+Package: kweather
+Architecture: any
+Section: games
+Depends: ${shlibs:Depends}
+Description: ...
+ kweather ...
+ .
+ This package is part of the KDE 4 toys module.
+
 
 Package: kdetoys-dbg
 Section: libdevel

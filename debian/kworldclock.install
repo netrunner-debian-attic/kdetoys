@@ -1,3 +1,5 @@
+usr/lib/libkworldclock.so.4
+usr/lib/libkworldclock.so.4.1.0
 usr/bin/kworldclock
 usr/share/applications/kde4/kworldclock.desktop
 usr/share/doc/kde4/HTML/en/kworldclock/common
@@ -34,3 +36,17 @@ usr/share/kde4/apps/kworldclock/pics/flag-mask.xpm
 usr/share/kde4/apps/kworldclock/pics/flag.png
 usr/share/kde4/apps/kworldclock/pics/flag-red.png
 usr/share/kde4/apps/kworldclock/zone.tab
+usr/include/kworldclock/about.h
+usr/include/kworldclock/applet.h
+usr/include/kworldclock/cities.h
+usr/include/kworldclock/clock.h
+usr/include/kworldclock/flags.h
+usr/include/kworldclock/kworldclock_export.h
+usr/include/kworldclock/maploader.h
+usr/include/kworldclock/mapwidget.h
+usr/lib/libkworldclock.so
+usr/share/kde4/apps/kworldclock/maps/daynight/1495.jpg
+usr/share/kde4/apps/kworldclock/maps/daynight/800.jpg
+usr/share/kde4/apps/kworldclock/maps/daynight/dark/1495.jpg
+usr/share/kde4/apps/kworldclock/maps/daynight/dark/800.jpg
+usr/share/kde4/apps/kworldclock/maps/daynight/daynight.desktop
