@@ -15,6 +15,7 @@ Package: kdetoys
 Architecture: all
 Section: kde
 Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}),
+ ktux (>= ${source:Version}), kweather (>= ${source:Version}),
  kworldclock (>= ${source:Version})
 Description: desktop toys from the official KDE 4 release
  KDE is produced by an international technology team that creates free and open
@@ -72,8 +73,8 @@ Package: ktux
 Architecture: any
 Section: games
 Depends: ${shlibs:Depends}
-Description: ...
- Ktux .......
+Description: Tux screensaver for KDE 4
+ A neat Tux-in-a-spaceship screensaver for the K Desktop Environment (KDE).
  .
  This package is part of the KDE 4 toys module.
 
@@ -81,8 +82,14 @@ Package: kweather
 Architecture: any
 Section: games
 Depends: ${shlibs:Depends}
-Description: ...
- kweather ...
+Description: weather display applet for KDE
+ An applet for the KDE panel that displays your area's current weather.
+ Information shown includes the temperature, wind speed, air pressure
+ and more. By pressing a button a full weather report can be obtained.
+ .
+ KWeather also provides a weather service that can track multiple weather
+ stations and provide this information to other applications, including
+ Konqueror's sidebar and Kontact's summary page.
  .
  This package is part of the KDE 4 toys module.
 
