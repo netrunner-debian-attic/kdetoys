@@ -1,6 +1,7 @@
 kdetoys (4:4.0.68-1) experimental; urgency=low
 
   * New upstream snapshot. 
+  * Replace Recommends: kwin with kde-window-manager.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 04 Apr 2008 18:35:22 +0200
 

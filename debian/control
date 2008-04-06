@@ -33,7 +33,7 @@ Package: amor
 Architecture: any
 Section: games
 Depends: ${shlibs:Depends}
-Recommends: kwin
+Recommends: kde-window-manager
 Suggests: khelpcenter
 Description: KDE 4 desktop companion
  AMOR, or Amusing Misuse Of Resources, displays an animated character who
