@@ -1,4 +1,4 @@
-kdetoys (4:4.0.68+svn794174-1) experimental; urgency=low
+kdetoys (4:4.0.68+svn794641-1) experimental; urgency=low
 
   * New upstream snapshot. 
   * Replace Recommends: kwin with kde-window-manager.
