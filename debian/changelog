@@ -2,8 +2,9 @@ kdetoys (4:4.0.68+svn794641-1) experimental; urgency=low
 
   * New upstream snapshot. 
   * Replace Recommends: kwin with kde-window-manager.
+  * Update build depends, add libstreamanalyzer-dev.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 04 Apr 2008 18:35:22 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 24 Apr 2008 18:19:04 +0200
 
 kdetoys (4:4.0.66+svn791114-1) experimental; urgency=low
 
