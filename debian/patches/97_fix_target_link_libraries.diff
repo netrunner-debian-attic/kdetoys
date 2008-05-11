@@ -1,0 +1,29 @@
+--- a/kweather/CMakeLists.txt
++++ b/kweather/CMakeLists.txt
+@@ -35,7 +35,7 @@
+ 
+ kde4_add_kdeinit_executable( kweatherreport ${kweatherreport_KDEINIT_SRCS})
+ 
+-target_link_libraries(kdeinit_kweatherreport ${KDE4_KHTML_LIBS})
++target_link_libraries(kdeinit_kweatherreport ${KDE4_KHTML_LIBS} ${QT_QTDBUS_LIBRARY})
+ 
+ install(TARGETS kdeinit_kweatherreport ${INSTALL_TARGETS_DEFAULT_ARGS})
+ 
+@@ -69,7 +69,7 @@
+ kde4_add_plugin(kcm_weather ${kcm_weather_PART_SRCS})
+ 
+ 
+-target_link_libraries(kcm_weather  ${KDE4_KDE3SUPPORT_LIBS}  )
++target_link_libraries(kcm_weather  ${KDE4_KDE3SUPPORT_LIBS} ${QT_QTDBUS_LIBRARY}  )
+ 
+ install(TARGETS kcm_weather  DESTINATION ${PLUGIN_INSTALL_DIR})
+ 
+@@ -85,7 +85,7 @@
+ kde4_add_plugin(kcm_weatherservice ${kcm_weatherservice_PART_SRCS})
+ 
+ 
+-target_link_libraries(kcm_weatherservice  ${KDE4_KDE3SUPPORT_LIBS} )
++target_link_libraries(kcm_weatherservice  ${KDE4_KDE3SUPPORT_LIBS} ${QT_QTDBUS_LIBRARY} )
+ 
+ install(TARGETS kcm_weatherservice  DESTINATION ${PLUGIN_INSTALL_DIR})
+ 

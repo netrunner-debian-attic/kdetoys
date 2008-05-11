@@ -1,6 +1,7 @@
 kdetoys (4:4.0.73-1) UNRELEASED; urgency=low
 
   * New upstream snapshot.
+  * Add 97_fix_target_link_libraries patch.
 
  -- Fathi Boudra <fabo@debian.org>  Sat, 10 May 2008 16:07:00 +0200
 
