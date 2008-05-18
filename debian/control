@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Armin Berres <trigger+debian@space-based.de>, Matthew Rosewarne <mrosewarne@inoutbox.com>
 Build-Depends: cdbs (>= 0.4.51), debhelper (>= 6), cmake (>= 2.6.0), quilt,
- kdebase-workspace-dev (>= 4:4.0.73), libphonon-dev (>= 4:4.0.73), libplasma-dev (>= 4:4.0.73),
+ kdebase-workspace-dev (>= 4:4.0.74), libphonon-dev (>= 4:4.0.74), libplasma-dev (>= 4:4.0.74),
  libstreamanalyzer-dev, libqimageblitz-dev
 Standards-Version: 3.7.3
 Homepage: http://www.kde.org/
@@ -15,8 +15,7 @@ Package: kdetoys
 Architecture: all
 Section: kde
 Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}),
- ktux (>= ${source:Version}), kweather (>= ${source:Version}),
- kworldclock (>= ${source:Version})
+ ktux (>= ${source:Version}), kweather (>= ${source:Version})
 Description: desktop toys from the official KDE 4 release
  KDE is produced by an international technology team that creates free and open
  source software for desktop and portable computing. Among KDE's products are a
@@ -27,7 +26,6 @@ Description: desktop toys from the official KDE 4 release
  .
  This metapackage includes desktop toys provided with the official release of
  KDE 4.
-
 
 Package: amor
 Architecture: any
@@ -54,21 +52,6 @@ Description: KDE 4 utility for making a fine cup of tea
  .
  This package is part of the KDE 4 toys module.
 
-Package: kworldclock
-Architecture: any
-Section: games
-Depends: ${shlibs:Depends}
-Suggests: kdeartwork-misc, kdesktop, khelpcenter
-Provides: kworldwatch
-Description: world clock for KDE 4
- KWorldClock displays a map of the world with illuminated and shaded areas
- indicating day and night.  Moving the mouse near a major city will display the
- current local time.
- .
- Additional kworldclock themes are available in the kdeartwork-misc package.
- .
- This package is part of the KDE 4 toys module.
-
 Package: ktux
 Architecture: any
 Section: games
@@ -92,7 +75,6 @@ Description: weather display applet for KDE
  Konqueror's sidebar and Kontact's summary page.
  .
  This package is part of the KDE 4 toys module.
-
 
 Package: kdetoys-dbg
 Section: libdevel

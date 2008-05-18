@@ -1,9 +1,10 @@
-kdetoys (4:4.0.73-1) UNRELEASED; urgency=low
+kdetoys (4:4.0.74-1) experimental; urgency=low
 
   * New upstream snapshot.
+  * kworldclock is removed from kdetoys module.
   * Add 97_fix_target_link_libraries patch.
 
- -- Fathi Boudra <fabo@debian.org>  Sat, 10 May 2008 16:07:00 +0200
+ -- Fathi Boudra <fabo@debian.org>  Sun, 18 May 2008 19:40:01 +0200
 
 kdetoys (4:4.0.72-1) experimental; urgency=low
 
