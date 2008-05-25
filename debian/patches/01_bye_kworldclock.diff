@@ -1,8 +1,0 @@
---- a/doc/CMakeLists.txt
-+++ b/doc/CMakeLists.txt
-@@ -5,5 +5,4 @@
-   endif( PLASMA_FOUND)
- endif ( Q_WS_X11 )
- add_subdirectory(kteatime)
--add_subdirectory(kworldclock)
- 
