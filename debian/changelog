@@ -1,9 +1,10 @@
-kdetoys (4:4.0.81+svn814482-1) UNRELEASED; urgency=low
+kdetoys (4:4.0.82+svn819867-1) experimental; urgency=low
 
   * New upstream snapshot.
-  * Update build-depends to >= 4:4.0.81.
+  * Update build-depends to >= 4:4.0.82.
+  * Build depend on phonon 4.2~.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 30 May 2008 20:10:10 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 15 Jun 2008 18:21:49 +0200
 
 kdetoys (4:4.0.80-1) experimental; urgency=low
 
