@@ -1,3 +1,9 @@
+kdetoys (4:4.0.84-1) experimental; urgency=low
+
+  * New upstream snapshot.
+
+ -- Sune Vuorela <debian@pusling.com>  Sun, 29 Jun 2008 16:02:32 +0200
+
 kdetoys (4:4.0.82+svn819867-1) experimental; urgency=low
 
   * New upstream snapshot.
