@@ -4,7 +4,6 @@ usr/share/doc/kde4/HTML/en/kteatime/config.png
 usr/share/doc/kde4/HTML/en/kteatime/common
 usr/share/doc/kde4/HTML/en/kteatime/index.cache.bz2
 usr/share/doc/kde4/HTML/en/kteatime/index.docbook
-usr/share/icons/hicolor/16x16/apps/kteatime.png
-usr/share/icons/hicolor/32x32/apps/kteatime.png
-usr/share/icons/hicolor/48x48/apps/kteatime.png
+usr/share/icons/hicolor/*/apps/kteatime.png
+usr/share/icons/hicolor/scalable/apps/kteatime.svgz
 usr/share/kde4/apps/kteatime/kteatime.notifyrc
