@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Armin Berres <trigger+debian@space-based.de>, Matthew Rosewarne <mrosewarne@inoutbox.com>
 Build-Depends: cdbs (>= 0.4.51), debhelper (>= 6), cmake (>= 2.6.0), quilt,
- kdebase-workspace-dev (>= 4:4.1.1), libplasma-dev (>= 4:4.1.1),
+ kdebase-workspace-dev (>= 4:4.1.3), libplasma-dev (>= 4:4.1.3),
  libphonon-dev (>> 4:4.2.0), libx11-dev, libxrender-dev, libxrandr-dev, 
  libstreamanalyzer-dev, libqimageblitz-dev
 Standards-Version: 3.8.0
