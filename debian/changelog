@@ -1,3 +1,12 @@
+kdetoys (4:4.1.80+svn889437+0) experimental; urgency=low
+
+  * New upstream development snapshot.
+  * Bump KDE build dependencies to 4.1.80.
+  * Add a README.source file for complying with Standards-Version 3.8.0
+  * Remove explicit cmake build dependency.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 25 Sep 2008 23:12:48 +0200
+
 kdetoys (4:4.1.3-1) experimental; urgency=low
 
   * New upstream
