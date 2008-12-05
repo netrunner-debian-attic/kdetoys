@@ -1,4 +1,4 @@
-kdetoys (4:4.1.80+svn889437-0) UNRELEASED; urgency=low
+kdetoys (4:4.1.82+svn892247-0r1) UNRELEASED; urgency=low
 
   * New upstream development snapshot.
   * Bump KDE build dependencies to 4.1.80.
