@@ -2,6 +2,8 @@ kdetoys (4:4.1.86+svn901446-0r1) UNRELEASED; urgency=low
 
   * New upstream development snapshot.
 
+  +++ Changes by Ana Beatriz Guerrero Lopez:
+
   * Bump KDE build dependencies to 4.1.80.
   * Add a README.source file for complying with Standards-Version 3.8.0
   * Remove explicit cmake build dependency.
