@@ -6,7 +6,7 @@ Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Sune Vuorela <debian@pus
 Build-Depends: cdbs (>= 0.4.51), debhelper (>= 6), quilt,
  kdebase-workspace-dev (>= 4:4.1.96),
  libphonon-dev (>> 4:4.2.0), libx11-dev, libxrender-dev, libxrandr-dev, 
- libstreamanalyzer-dev, libqimageblitz-dev
+ libstreamanalyzer-dev (>= 0.6.3), libqimageblitz-dev
 Standards-Version: 3.8.0
 Homepage: http://www.kde.org/
 Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/branches/kde4/packages/kdetoys
