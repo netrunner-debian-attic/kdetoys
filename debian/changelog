@@ -1,10 +1,10 @@
-kdetoys (4:4.1.96+svn911500-0r1) UNRELEASED; urgency=low
+kdetoys (4:4.2.0-0r1) UNRELEASED; urgency=low
 
-  * New upstream development snapshot.
+  * New upstream release.
 
   +++ Changes by Ana Beatriz Guerrero Lopez:
 
-  * Bump KDE build dependencies to 4.1.96.
+  * Bump KDE build dependencies to 4.2.0.
   * Add a README.source file for complying with Standards-Version 3.8.0
   * Remove explicit cmake build dependency.
 
