@@ -13,6 +13,18 @@ Copyright:
 
     Unless something else is mentioned, copyright is
     (C) 1996-2008, The K Desktop Enviroment project http://www.kde.org
+    Copyright (C) 1999 Martin R. Jones <mjones@kde.org>
+    Copyright (C) 1998-1999 Matthias Hoelzer-Kluepfel
+    Copyright (C) 2002-2003 Martin Willers <willers@xm-arts.de>
+    Copyright (C) 2007 Stefan Boehmann <kde@hilefoks.org>
+    Copyrigth (C) 2003 Daniel Teske <teske@bigfoot.com>
+    Copyright (C) 2000-2004 Ian Reinhart Geiser <geiseri@msoe.edu>
+    Copyright (C) 2002-2004 Nadeem Hasan <nhasan@kde.org> 
+    Copyright (C) 2003-2004 Tobias Koenig <tokoe@kde.org>
+    Copyright (C) 2004 John Ratke <jratke@comcast.net>
+    Copyright (C) 1989,1992 Paul Schlyter
+
+
 
 License:
 
@@ -60,37 +72,6 @@ These files are under the GNU Free Documentation License v1.2
     specified otherwise below.
 
 
-Files under eyesapplet/
-
-    These files are under the GPL v2 or later.
-
-
-Files under fifteenapplet/
-
-    These files are under the following license:
-
-   | Permission is hereby granted, free of charge, to any person obtaining a copy
-   | of this software and associated documentation files (the "Software"), to deal
-   | in the Software without restriction, including without limitation the rights
-   | to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-   | copies of the Software, and to permit persons to whom the Software is
-   | furnished to do so, subject to the following conditions:
-   | 
-   | The above copyright notice and this permission notice shall be included in
-   | all copies or substantial portions of the Software.
-   | 
-   | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   | IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   | FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
-   | AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-   | AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-   | CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-   |
-
-Files under kmoon/
-
-    These files are under the GPL v2 or later.
-
 
 Files under kteatime/
 
@@ -104,12 +85,9 @@ Files under ktux/
 
 Files under kweather/
 
-    These files are under the GPL v2 or later.
+    These files are under the GPL v2 or later and some LGPL v2 or later, LGPLv2.1 or later effectively
+    rendering everything GPLv2 or later.
 
-
-Files under kworldwatch/
-
-    These files are under the GPL v2 or later.
 
 
 
