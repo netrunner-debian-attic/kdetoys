@@ -1,10 +1,12 @@
-kdetoys (4:4.2.0-2) UNRELEASED; urgency=low
+kdetoys (4:4.2.1-1) experimental; urgency=low
+
+  * New upstream release.
 
   +++ Changes by Modestas Vainius:
 
   * Point Debian Vcs URLs to pkg-kde/trunk (new location).
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 20 Feb 2009 00:19:42 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 06 Mar 2009 00:30:22 +0100
 
 kdetoys (4:4.2.0-1) experimental; urgency=low
 
