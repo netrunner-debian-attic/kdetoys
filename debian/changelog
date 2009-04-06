@@ -1,3 +1,9 @@
+kdetoys (4:4.2.2-2) unstable; urgency=low
+
+  * Update sections.
+
+ -- Sune Vuorela <debian@pusling.com>  Mon, 06 Apr 2009 23:23:19 +0200
+
 kdetoys (4:4.2.2-1) unstable; urgency=low
 
   * New upstream release.

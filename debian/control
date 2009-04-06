@@ -55,7 +55,7 @@ Description: KDE 4 utility for making a fine cup of tea
 
 Package: ktux
 Architecture: any
-Section: games
+Section: kde
 Depends: ${shlibs:Depends}
 Description: Tux screensaver for KDE 4
  A neat Tux-in-a-spaceship screensaver for the K Desktop Environment (KDE).
@@ -64,7 +64,7 @@ Description: Tux screensaver for KDE 4
 
 Package: kweather
 Architecture: any
-Section: games
+Section: kde
 Depends: ${shlibs:Depends}
 Description: weather display applet for KDE
  An applet for the KDE panel that displays your area's current weather.
@@ -78,7 +78,7 @@ Description: weather display applet for KDE
  This package is part of the KDE 4 toys module.
 
 Package: kdetoys-dbg
-Section: libdevel
+Section: debug
 Architecture: any
 Depends: kdebase-runtime-dbg
 Suggests: kdetoys (= ${source:Version})
