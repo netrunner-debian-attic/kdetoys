@@ -1,5 +1,6 @@
-kdetoys (4:4.2.2-2) UNRELEASED; urgency=low
+kdetoys (4:4.2.4-1) UNRELEASED; urgency=low
 
+  * New upstream release.
   * Update sections.
 
  -- Sune Vuorela <debian@pusling.com>  Mon, 06 Apr 2009 23:23:19 +0200
