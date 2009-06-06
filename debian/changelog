@@ -1,4 +1,4 @@
-kdetoys (4:4.2.4-1) UNRELEASED; urgency=low
+kdetoys (4:4.2.4-1) experimental; urgency=low
 
   * New upstream release.
   * Update sections.
