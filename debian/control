@@ -7,7 +7,7 @@ Build-Depends: cdbs (>= 0.4.51), debhelper (>= 7), quilt, pkg-kde-tools (>= 0.4)
  kdebase-workspace-dev (>= 4:4.2.4),
  libphonon-dev (>> 4:4.3.0), libx11-dev, libxrender-dev, libxrandr-dev, 
  libstreamanalyzer-dev (>= 0.6.3), libqimageblitz-dev
-Standards-Version: 3.8.0
+Standards-Version: 3.8.1
 Homepage: http://www.kde.org/
 Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/trunk/packages/kdetoys
 Vcs-Svn: svn://svn.debian.org/pkg-kde/trunk/packages/kdetoys
