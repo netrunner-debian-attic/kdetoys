@@ -7,14 +7,13 @@ Build-Depends: cdbs (>= 0.4.51), debhelper (>= 7), quilt, pkg-kde-tools (>= 0.4)
  kdebase-workspace-dev (>= 4:4.2.4),
  libphonon-dev (>> 4:4.3.0), libx11-dev, libxrender-dev, libxrandr-dev, 
  libstreamanalyzer-dev (>= 0.6.3), libqimageblitz-dev
-Standards-Version: 3.8.1
+Standards-Version: 3.8.2
 Homepage: http://www.kde.org/
 Vcs-Browser: http://svn.debian.org/wsvn/pkg-kde/trunk/packages/kdetoys
 Vcs-Svn: svn://svn.debian.org/pkg-kde/trunk/packages/kdetoys
 
 Package: kdetoys
 Architecture: all
-Section: kde
 Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}),
  ktux (>= ${source:Version}), kweather (>= ${source:Version})
 Description: desktop toys from the official KDE 4 release
@@ -42,7 +41,6 @@ Description: KDE 4 desktop companion
 
 Package: kteatime
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}
 Suggests: khelpcenter
 Description: KDE 4 utility for making a fine cup of tea
@@ -55,7 +53,6 @@ Description: KDE 4 utility for making a fine cup of tea
 
 Package: ktux
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}
 Description: Tux screensaver for KDE 4
  A neat Tux-in-a-spaceship screensaver for the K Desktop Environment (KDE).
@@ -64,7 +61,6 @@ Description: Tux screensaver for KDE 4
 
 Package: kweather
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}
 Description: weather display applet for KDE
  An applet for the KDE panel that displays your area's current weather.
