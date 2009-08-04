@@ -1,10 +1,10 @@
-kdetoys (4:4.3.0-0r1) UNRELEASED; urgency=low
+kdetoys (4:4.3.0-1) unstable; urgency=low
 
   * New upstream release. 
   * Update to Standards-Version: 3.8.2, no changes required.
   * Remove superflous section fields in debian/control.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 26 Jul 2009 20:29:53 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 04 Aug 2009 09:21:27 +0200
 
 kdetoys (4:4.2.4-2) unstable; urgency=low
 
