@@ -1,3 +1,10 @@
+kdetoys (4:4.3.2-2) UNRELEASED; urgency=low
+
+  * Add source.lintian-overrides to ignore lintian warning about missing
+    debug depends.
+
+ -- Karl Ferdinand Ebert <kfebert@gmail.com>  Thu, 08 Oct 2009 16:19:13 +0200
+
 kdetoys (4:4.3.2-1) unstable; urgency=low
 
   * New upstream release. 
