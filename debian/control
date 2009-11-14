@@ -2,7 +2,7 @@ Source: kdetoys
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Armin Berres <armin+debian@space-based.de>
+Uploaders: Sune Vuorela <debian@pusling.com>, Fathi Boudra <fabo@debian.org>, Armin Berres <armin+debian@space-based.de>
 Build-Depends: cdbs (>= 0.4.51), debhelper (>= 7), quilt, pkg-kde-tools (>= 0.4),
  kdebase-workspace-dev (>= 4:4.3.3),
  libphonon-dev (>> 4:4.3.0), libx11-dev, libxrender-dev, libxrandr-dev, 
