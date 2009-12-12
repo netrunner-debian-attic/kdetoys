@@ -1,3 +1,9 @@
+kdetoys (4:4.3.4-2) UNRELEASED; urgency=low
+
+  * Add myself as uploader.
+
+ -- Modestas Vainius <modax@debian.org>  Sat, 12 Dec 2009 17:48:52 +0200
+
 kdetoys (4:4.3.4-1) unstable; urgency=low
 
   * New upstream release.
