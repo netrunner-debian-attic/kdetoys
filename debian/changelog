@@ -1,10 +1,10 @@
-kdetoys (4:4.4.0-0) UNRELEASED; urgency=low
+kdetoys (4:4.4.1~svn-0r1) UNRELEASED; urgency=low
 
   * Add myself as uploader.
   * Fix Vcs-Browser URL.
   * libkdeinit4_*.so have been moved to private directory (Closes: #553118).
 
- -- Modestas Vainius <modax@debian.org>  Sat, 12 Dec 2009 17:48:52 +0200
+ -- Modestas Vainius <modax@debian.org>  Thu, 25 Feb 2010 01:19:59 +0200
 
 kdetoys (4:4.3.4-1) unstable; urgency=low
 
