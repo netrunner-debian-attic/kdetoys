@@ -7,7 +7,7 @@ kdetoys (4:4.4.1-0) UNRELEASED; urgency=low
   * Fix Vcs-Browser URL.
   * libkdeinit4_*.so have been moved to private directory (Closes: #553118).
   * Add cmake to Build-Depends.
-  * Add kde-sc-dev-latest (>= 4:4.4.1~) | kde-sc-dev-maint to Build-Depends.
+  * Add kde-sc-dev-latest (>= 4:4.4.1) | kde-sc-dev-maint to Build-Depends.
 
  -- Modestas Vainius <modax@debian.org>  Thu, 25 Feb 2010 01:19:59 +0200
 
