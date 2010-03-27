@@ -1,4 +1,4 @@
-kdetoys (4:4.4.1-0rc1) UNRELEASED; urgency=low
+kdetoys (4:4.4.2-0rc1) UNRELEASED; urgency=low
 
   * New upstream release.
 
@@ -12,7 +12,7 @@ kdetoys (4:4.4.1-0rc1) UNRELEASED; urgency=low
   * Bump KDE build dependencies to 4:4.4.
   * Bump pkg-kde-tools build dependency to 0.6.4.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 04 Mar 2010 22:14:24 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Mar 2010 11:59:16 +0200
 
 kdetoys (4:4.3.4-1) unstable; urgency=low
 
