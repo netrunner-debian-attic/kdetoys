@@ -5,9 +5,9 @@ usr/lib/kde4/kcm_weatherservice.so
 usr/lib/libkdeinit4_kweatherreport.so
 usr/share/dbus-1/interfaces/org.kde.kweather.kweather.xml
 usr/share/dbus-1/interfaces/org.kde.kweather.service.xml
-usr/share/doc/kde4/HTML/en/kweather/common
-usr/share/doc/kde4/HTML/en/kweather/index.cache.bz2
-usr/share/doc/kde4/HTML/en/kweather/index.docbook
+usr/share/doc/kde/HTML/en/kweather/common
+usr/share/doc/kde/HTML/en/kweather/index.cache.bz2
+usr/share/doc/kde/HTML/en/kweather/index.docbook
 usr/share/icons/hicolor/16x16/apps/kweather.png
 usr/share/icons/hicolor/32x32/apps/kweather.png
 usr/share/icons/hicolor/48x48/apps/kweather.png
