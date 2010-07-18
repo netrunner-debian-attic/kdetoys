@@ -1,9 +1,14 @@
 kdetoys (4:4.4.5-1) UNRELEASED; urgency=low
 
+  [ Modestas Vainius ]
   * New upstream release.
   * Bump kde-sc-dev-latest build dependency to 4:4.4.5.
 
- -- Modestas Vainius <modax@debian.org>  Sun, 04 Jul 2010 19:00:53 +0300
+  [ Sune Vuorela ]
+  * update email address
+  * update descriptions
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 18 Jul 2010 14:02:48 +0200
 
 kdetoys (4:4.4.4-1) unstable; urgency=low
 
