@@ -301,21 +301,8 @@ kdetoys (4:3.98.0~svn753247-1) experimental; urgency=low
 
   * KDE 4 RC2 + svn snapshot 753247, first upload to the Debian archive.
   * Update Standards-Version to 3.7.3.
-
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 30 Dec 2007 01:31:34 +0100
-
-kdetoys (4:3.96.0-1) experimental; urgency=low
-
-  * New upstream release. 
   * Update build-depends.
   * Split files in packages.
   * Update control file with new packages.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 16 Nov 2007 15:03:24 +0100
-
-kdetoys (4:3.90.1-1) experimental; urgency=low
-
-  * Initial release.
-
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 22 May 2007 20:56:00 +0200
-
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 30 Dec 2007 01:31:34 +0100
