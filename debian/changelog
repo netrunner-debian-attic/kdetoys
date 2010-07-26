@@ -75,20 +75,20 @@ kdetoys (4:4.3.4-1) unstable; urgency=low
 
 kdetoys (4:4.3.2-1) unstable; urgency=low
 
-  * New upstream release. 
+  * New upstream release.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 07 Oct 2009 22:26:45 +0200
 
 kdetoys (4:4.3.1-1) unstable; urgency=low
 
-  * New upstream release. 
+  * New upstream release.
   * Update to Standards-Version: 3.8.3, no changes required.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 12 Sep 2009 16:28:33 +0200
 
 kdetoys (4:4.3.0-1) unstable; urgency=low
 
-  * New upstream release. 
+  * New upstream release.
   * Update to Standards-Version: 3.8.2, no changes required.
   * Remove superflous section fields in debian/control.
 
@@ -185,13 +185,13 @@ kdetoys (4:4.1.1-1) experimental; urgency=low
 
 kdetoys (4:4.1.0-1) experimental; urgency=low
 
-  * New upstream release. 
+  * New upstream release.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 28 Jul 2008 11:19:30 +0200
 
 kdetoys (4:4.0.98-1) experimental; urgency=low
 
-  * New upstream release, Release Candidate 1. 
+  * New upstream release, Release Candidate 1.
   * Remove 97_fix_target_link_libraries patch.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 15 Jul 2008 00:49:40 +0200
@@ -290,7 +290,7 @@ kdetoys (4:3.98.0~svn755919-1) experimental; urgency=low
 
   * New svn snapshot release to revision 755919.
   * Replace b-d on kdebase-workspace-dev for libphonon-dev.
-  * Update years in copyright. 
+  * Update years in copyright.
   * Remove: fifteenapplet (it is a plasmoid now), ktux, kmoon
     eyesapplet and kweather.
   * Update kworldclock.install, has dropped the kicker applet.
