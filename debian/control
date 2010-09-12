@@ -16,7 +16,7 @@ Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kdetoys.git
 Package: kdetoys
 Architecture: all
 Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}),
- ktux (>= ${source:Version}), kweather (>= ${source:Version})
+ ktux (>= ${source:Version})
 Description: desktop toys from the official KDE 4 release
  KDE is produced by an international technology team that creates free and open
  source software for desktop and portable computing. Among KDE's products are a
