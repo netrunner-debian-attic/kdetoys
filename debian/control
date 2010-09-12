@@ -60,15 +60,15 @@ Description: Tux screensaver for KScreenSaver
  .
  This package is part of the KDE toys module.
 
-Package: kweather
-Architecture: any
-Depends: ${shlibs:Depends}
-Description: weather services 
- KWeather also provides a weather service that can track multiple weather
- stations and provide this information to other applications, including
- Konqueror's sidebar and Kontact's summary page.
- .
- This package is part of the KDE toys module.
+#Package: kweather
+#Architecture: any
+#Depends: ${shlibs:Depends}
+#Description: weather services 
+# KWeather also provides a weather service that can track multiple weather
+# stations and provide this information to other applications, including
+# Konqueror's sidebar and Kontact's summary page.
+# .
+# This package is part of the KDE toys module.
 
 Package: kdetoys-dbg
 Section: debug
