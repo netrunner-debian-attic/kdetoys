@@ -1,5 +1,8 @@
-kdetoys (4:4.4.5-2) UNRELEASED; urgency=low
+kdetoys (4:4.5.1-0r1) UNRELEASED; urgency=low
 
+  * New upstream release.
+
+  [ Modestas Vainius ]
   * Point debian/control Vcs fields to the new Git repository.
 
  -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:24:38 +0300
