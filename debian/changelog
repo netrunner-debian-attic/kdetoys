@@ -10,6 +10,7 @@ kdetoys (4:4.5.1-0r1) UNRELEASED; urgency=low
     (Closes: #506522, #548543, #485124, #514173, #257135)
   * Update installed files.
   * Bump Standards-Version to 3.9.1, no changes needed.
+  * Bump KDE build depends for 4.5.
 
  -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:24:38 +0300
 
