@@ -1,4 +1,4 @@
-usr/bin/amor
+usr/bin/amor usr/games
 usr/share/applications/kde4/amor.desktop
 usr/share/dbus-1/interfaces/org.kde.amor.xml
 usr/share/doc/kde/HTML/en/amor/billy.png
