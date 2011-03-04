@@ -10,7 +10,7 @@ kdetoys (4:4.6.1-0r0) UNRELEASED; urgency=low
     (Closes: #506522, #548543, #485124, #514173, #257135)
   * Update installed files.
   * Bump Standards-Version to 3.9.1, no changes needed.
-  * Bump KDE build depends for 4.5.
+  * Bump kdebase-workspace-dev build depend to 4:4.6.
 
   [ Pino Toscano ]
   * khelpcenter -> khelpcenter4 in recommends.
