@@ -15,7 +15,7 @@ Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kdetoys.git
 
 Package: kdetoys
 Architecture: all
-Depends: amor (>= ${source:Version}), kteatime (>= ${source:Version}),
+Depends: ${misc:Depends}, amor (>= ${source:Version}), kteatime (>= ${source:Version}),
  ktux (>= ${source:Version})
 Description: desktop toys from the official KDE 4 release
  KDE is produced by an international technology team that creates free and open
@@ -31,7 +31,7 @@ Description: desktop toys from the official KDE 4 release
 Package: amor
 Architecture: any
 Section: games
-Depends: ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: kde-window-manager
 Suggests: khelpcenter4
 Description: desktop companion
@@ -42,7 +42,7 @@ Description: desktop companion
 
 Package: kteatime
 Architecture: any
-Depends: ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter4
 Description: utility for making a fine cup of tea
  KTeaTime is a handy timer for steeping tea. No longer will you have to
@@ -54,7 +54,7 @@ Description: utility for making a fine cup of tea
 
 Package: ktux
 Architecture: any
-Depends: ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Tux screensaver for KScreenSaver
  A neat Tux-in-a-spaceship screensaver for the KScreenSaver
  .
@@ -62,7 +62,7 @@ Description: Tux screensaver for KScreenSaver
 
 #Package: kweather
 #Architecture: any
-#Depends: ${shlibs:Depends}
+#Depends: ${misc:Depends}, ${shlibs:Depends}
 #Description: weather services 
 # KWeather also provides a weather service that can track multiple weather
 # stations and provide this information to other applications, including
@@ -73,7 +73,7 @@ Description: Tux screensaver for KScreenSaver
 Package: kdetoys-dbg
 Section: debug
 Architecture: any
-Depends: kdebase-runtime-dbg
+Depends: ${misc:Depends}, kdebase-runtime-dbg
 Suggests: kdetoys (= ${source:Version})
 Priority: extra
 Description: debugging symbols for kdetoys

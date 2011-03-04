@@ -14,6 +14,7 @@ kdetoys (4:4.5.1-0r1) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * khelpcenter -> khelpcenter4 in recommends.
+  * Add ${misc:Depends}.
 
  -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:24:38 +0300
 
