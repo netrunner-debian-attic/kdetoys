@@ -12,6 +12,9 @@ kdetoys (4:4.5.1-0r1) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.9.1, no changes needed.
   * Bump KDE build depends for 4.5.
 
+  [ Pino Toscano ]
+  * khelpcenter -> khelpcenter4 in recommends.
+
  -- Modestas Vainius <modax@debian.org>  Mon, 26 Jul 2010 23:24:38 +0300
 
 kdetoys (4:4.4.5-1) unstable; urgency=low
