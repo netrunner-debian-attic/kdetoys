@@ -5,4 +5,4 @@ include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 .PHONY: override_dh_auto_test
 
 override_dh_strip:
-	$(overriden_command) --dbg-package=kdetoys-dbg
+	$(overridden_command) --dbg-package=kdetoys-dbg
