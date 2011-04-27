@@ -1,4 +1,4 @@
-kdetoys (4:4.6.2-0r0) UNRELEASED; urgency=low
+kdetoys (4:4.6.2-1) experimental; urgency=low
 
   * New upstream release.
 
@@ -18,7 +18,7 @@ kdetoys (4:4.6.2-0r0) UNRELEASED; urgency=low
   * khelpcenter -> khelpcenter4 in recommends.
   * Add ${misc:Depends}.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 29 Mar 2011 21:58:21 +0300
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 27 Apr 2011 12:23:45 +0300
 
 kdetoys (4:4.4.5-1) unstable; urgency=low
 
