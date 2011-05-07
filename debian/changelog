@@ -5,6 +5,7 @@ kdetoys (4:4.6.3-0r0) UNRELEASED; urgency=low
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.6.3.
   * Bump Standards-Version to 3.9.2; no changes needed.
+  * Add debian/not-installed file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 03 May 2011 14:17:06 +0200
 

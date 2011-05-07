@@ -1,0 +1,5 @@
+# Installed in /usr/games
+./usr/bin/amor
+
+# Manpages are compressed.
+./usr/share/man/man6/amor.6
