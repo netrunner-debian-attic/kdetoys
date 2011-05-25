@@ -1,4 +1,4 @@
-kdetoys (4:4.6.3-0r0) UNRELEASED; urgency=low
+kdetoys (4:4.6.3-1) unstable; urgency=low
 
   * New upstream release.
 
@@ -7,7 +7,7 @@ kdetoys (4:4.6.3-0r0) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.9.2; no changes needed.
   * Add debian/not-installed file.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 03 May 2011 14:17:06 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 26 May 2011 02:41:40 +0300
 
 kdetoys (4:4.6.2-1) experimental; urgency=low
 
