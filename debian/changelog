@@ -1,11 +1,11 @@
-kdetoys (4:4.7.1-0r0) UNRELEASED; urgency=low
+kdetoys (4:4.7.2-0r0) UNRELEASED; urgency=low
 
   [ Daniele E. Domenichelli ]
   * New upstream release.
-  * Bump kde-sc-dev-latest build dependency to 4:4.7.1
+  * Bump kde-sc-dev-latest build dependency to 4:4.7.2
   * Bump kdebase-workspace-dev build dependency to 4:4.7
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 27 Sep 2011 12:25:54 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 11 Oct 2011 13:13:03 +0200
 
 kdetoys (4:4.6.5-1) unstable; urgency=low
 
