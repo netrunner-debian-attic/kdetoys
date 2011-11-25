@@ -5,6 +5,11 @@ kdetoys (4:4.7.2-0r0) UNRELEASED; urgency=low
   * Bump kde-sc-dev-latest build dependency to 4:4.7.2
   * Bump kdebase-workspace-dev build dependency to 4:4.7
 
+  [ Pino Toscano ]
+  * Manage some packages renamings:
+    - Build depend on kde-workspace-dev instead of kdebase-workspace-dev.
+    - kdetoys-dbg depends on kde-runtime-dbg instead of kdebase-runtime-dbg.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 11 Oct 2011 13:13:03 +0200
 
 kdetoys (4:4.6.5-1) unstable; urgency=low

@@ -5,7 +5,7 @@ Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <sune@debian.org>, Fathi Boudra <fabo@debian.org>, Armin Berres <armin+debian@space-based.de>, Modestas Vainius <modax@debian.org>, Eshat Cakar <info@eshat.de>
 Build-Depends: kde-sc-dev-latest (>= 4:4.7.2),
  cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
- kdebase-workspace-dev (>= 4:4.7),
+ kde-workspace-dev (>= 4:4.7),
  libphonon-dev (>> 4:4.3.0), libx11-dev, libxrender-dev, libxrandr-dev, 
  libstreamanalyzer-dev (>= 0.6.3), libqimageblitz-dev
 Standards-Version: 3.9.2
@@ -73,7 +73,7 @@ Description: Tux screensaver for KScreenSaver
 Package: kdetoys-dbg
 Section: debug
 Architecture: any
-Depends: ${misc:Depends}, kdebase-runtime-dbg
+Depends: ${misc:Depends}, kde-runtime-dbg
 Suggests: kdetoys (= ${source:Version})
 Priority: extra
 Description: debugging symbols for kdetoys
