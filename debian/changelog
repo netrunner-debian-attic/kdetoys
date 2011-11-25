@@ -6,7 +6,7 @@ kdetoys (4:4.7.2-0r0) UNRELEASED; urgency=low
   * Bump kdebase-workspace-dev build dependency to 4:4.7
 
   [ Pino Toscano ]
-  * Manage some packages renamings:
+  * Manage some packages renamings (Closes: #650006):
     - Build depend on kde-workspace-dev instead of kdebase-workspace-dev.
     - kdetoys-dbg depends on kde-runtime-dbg instead of kdebase-runtime-dbg.
 
