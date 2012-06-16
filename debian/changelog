@@ -4,6 +4,7 @@ kdetoys (4:4.8.4-0r0) UNRELEASED; urgency=low
 
   [ Eshat Cakar ]
   * Add watch file.
+  * Update Standards-Version to 3.9.3, no further changes.
 
  -- Eshat Cakar <info@eshat.de>  Sun, 17 Jun 2012 00:20:07 +0200
 
