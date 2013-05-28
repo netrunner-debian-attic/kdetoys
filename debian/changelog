@@ -1,3 +1,9 @@
+kdetoys (4:4.10.3-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 May 2013 22:53:22 +0200
+
 kdetoys (4:4.10.2-1) experimental; urgency=low
 
   [ Diane Trout ]
