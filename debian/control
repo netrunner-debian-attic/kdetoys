@@ -63,7 +63,7 @@ Package: kdetoys-dbg
 Section: debug
 Architecture: any
 Depends: ${misc:Depends}, kde-runtime-dbg
-Suggests: kdetoys (= ${source:Version})
+Suggests: kdetoys
 Priority: extra
 Description: debugging symbols for kdetoys
  This package contains the debugging symbols associated with kdetoys.
