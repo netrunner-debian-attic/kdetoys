@@ -1,10 +1,10 @@
-kdetoys (4:4.10.5-2) UNRELEASED; urgency=low
+kdetoys (4:4.10.5-2) unstable; urgency=low
 
-  [ Pino Toscano ]
+  * Team upload.
   * Drop the kdetoys metapackage (moved to meta-kde).
   * Remove the version from kdetoys suggestion in kdetoys-dbg.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 09 Sep 2013 10:55:46 +0200
+ -- Pino Toscano <pino@debian.org>  Mon, 09 Sep 2013 12:29:16 +0200
 
 kdetoys (4:4.10.5-1) unstable; urgency=low
 
